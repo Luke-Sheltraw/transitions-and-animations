@@ -1,4 +1,5 @@
-#CSS Transitions and Animations
-*Anything here if free to use*
+# CSS Transitions and Animations
 
-This contains many link transitions, fun animations, and more!
+***Anything here if free to use***
+
+	This contains many link transitions, fun animations, and more!
